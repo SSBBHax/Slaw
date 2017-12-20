@@ -1,0 +1,12 @@
+{
+  "name": "VF Sample",
+  "version": "1.0.0",
+  "description": "A sample for VF gif replacement",
+  "manifest_version": 2,
+  "permissions": [
+    "webRequest","webRequestBlocking","http://forums.kingdomofloathing.com/*"
+  ],
+  "background": {
+    "scripts": ["bgp.js"]
+  }
+}
