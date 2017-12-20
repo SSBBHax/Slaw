@@ -1,5 +1,5 @@
 # Slaw
-Replaces yojimbos_law with the correct one.
+Replaces yojimbos_law'a avatar with the correct one.
 
 
 That's all this does.
